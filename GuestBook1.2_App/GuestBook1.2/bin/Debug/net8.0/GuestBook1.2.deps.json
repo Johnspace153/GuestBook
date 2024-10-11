@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GuestBook1.2/1.0.0": {
+        "dependencies": {
+          "GuestBookLibrary": "1.0.0"
+        },
+        "runtime": {
+          "GuestBook1.2.dll": {}
+        }
+      },
+      "GuestBookLibrary/1.0.0": {
+        "runtime": {
+          "GuestBookLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GuestBook1.2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GuestBookLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
